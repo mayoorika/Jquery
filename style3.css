@@ -1,0 +1,32 @@
+#mayoori1 {
+    border-radius: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: 500px;
+    height: 350px;
+    float: center;
+     margin: 0 0 10px 10px;
+  }
+#mayoori2 {
+    border-radius: 25px;
+    background: #566573;
+    padding: 20px;
+    width: 500px;
+    height: 350px;
+   float: left;
+   margin: 0 0 10px 10px;
+  }
+#mayoori3 {
+    border-radius: 25px;
+    background: #566573;
+    padding: 20px;
+    width: 500px;
+    height: 250px;
+    float: right;
+    margin: 0 0 10px 10px;
+   }
+   #mayoori4
+   {
+   border-radius: 100%;
+   background: lightblue;
+ }
